@@ -2,43 +2,43 @@
 
 ## Character Skins
 
-**Skin  1: Ant-Man 1**
+**Skin &nbsp;1: Ant-Man 1**
 
-**Skin  2: Ant-Man 2**
+**Skin &nbsp;2: Ant-Man 2**
 
-**Skin  3: Flash**
+**Skin &nbsp;3: Flash**
 
-**Skin  4: C-3PO**
+**Skin &nbsp;4: C-3PO**
 
-**Skin  5: Mario**
+**Skin &nbsp;5: Mario**
 
-**Skin  6: Luigi**
+**Skin &nbsp;6: Luigi**
 
-**Skin  7: Yoshi**
+**Skin &nbsp;7: Yoshi**
 
-**Skin  8: Lava Creeper Con Esmoquin**
+**Skin &nbsp;8: Lava Creeper Con Esmoquin**
 
-**Skin  9: Slime Naranja Con Esmoquin**
+**Skin &nbsp;9: Slime Naranja Con Esmoquin**
 
 ## Troll Skins
 
-**Skin  1: Agua Troll**
+**Skin &nbsp;1: Agua Troll**
 
-**Skin  2: Cristal Troll**
+**Skin &nbsp;2: Cristal Troll**
 
-**Skin  3: Guijarro Troll**
+**Skin &nbsp;3: Guijarro Troll**
 
-**Skin  4: Hierba Troll**
+**Skin &nbsp;4: Hierba Troll**
 
-**Skin  5: Ladrillos Troll De Piedra**
+**Skin &nbsp;5: Ladrillos Troll De Piedra**
 
-**Skin  6: Librería Troll**
+**Skin &nbsp;6: Librería Troll**
 
-**Skin  7: Madera Troll De Abedul**
+**Skin &nbsp;7: Madera Troll De Abedul**
 
-**Skin  8: Piedra Troll**
+**Skin &nbsp;8: Piedra Troll**
 
-**Skin  9: Tierra Troll**
+**Skin &nbsp;9: Tierra Troll**
 
 **Skin 10: Tronco Troll De Roble**
 
