@@ -1,5 +1,7 @@
 # MINECRAFT SKINS
 
+## Character Skins
+
 **Skin  1: Ant-Man 1**
 
 **Skin  2: Ant-Man 2**
@@ -18,24 +20,26 @@
 
 **Skin  9: Slime Naranja Con Esmoquin**
 
-**Skin 10: Agua Troll**
+## Troll Skins
 
-**Skin 11: Cristal Troll**
+**Skin  1: Agua Troll**
 
-**Skin 12: Guijarro Troll**
+**Skin  2: Cristal Troll**
 
-**Skin 13: Hierba Troll**
+**Skin  3: Guijarro Troll**
 
-**Skin 14: Ladrillos Troll De Piedra**
+**Skin  4: Hierba Troll**
 
-**Skin 15: Librería Troll**
+**Skin  5: Ladrillos Troll De Piedra**
 
-**Skin 16: Madera Troll De Abedul**
+**Skin  6: Librería Troll**
 
-**Skin 17: Piedra Troll**
+**Skin  7: Madera Troll De Abedul**
 
-**Skin 18: Tierra Troll**
+**Skin  8: Piedra Troll**
 
-**Skin 19: Tronco Troll De Roble**
+**Skin  9: Tierra Troll**
 
-**Skin 20: Tronco Troll De Roble Oscuro**
+**Skin 10: Tronco Troll De Roble**
+
+**Skin 11: Tronco Troll De Roble Oscuro**
