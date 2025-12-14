@@ -20,6 +20,8 @@
 
 **Skin &nbsp;9: Slime Naranja Con Esmoquin**
 
+**Skin &nbsp;10: Char**
+
 ## Troll Skins
 
 **Skin &nbsp;1: Agua Troll**
