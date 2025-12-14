@@ -24,6 +24,24 @@
 
 **Skin &nbsp;11: Hambrosio El Noob**
 
+**Skin &nbsp;12: Batman Arkham City**
+
+**Skin &nbsp;13: Clark Kent Alias Superman**
+
+**Skin &nbsp;14: Cyborg From Teen Titans**
+
+**Skin &nbsp;15: Dick Grayson Alias Nightwing**
+
+**Skin &nbsp;16: Dick Grayson Alias Robin**
+
+**Skin &nbsp;17: Doctor Strange**
+
+**Skin &nbsp;18: John Stewart Alias Green Lantern**
+
+**Skin &nbsp;19: Sith Lord Darth Vader**
+
+**Skin &nbsp;20: Martian_Manhunter**
+
 ## Troll Skins
 
 **Skin &nbsp;1: Agua Troll**
