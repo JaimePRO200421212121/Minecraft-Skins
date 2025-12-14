@@ -22,6 +22,8 @@
 
 **Skin &nbsp;10: Char**
 
+**Skin &nbsp;11: Hambrosio El Noob**
+
 ## Troll Skins
 
 **Skin &nbsp;1: Agua Troll**
