@@ -40,7 +40,15 @@
 
 **Skin &nbsp;19: Sith Lord Darth Vader**
 
-**Skin &nbsp;20: Martian_Manhunter**
+**Skin &nbsp;20: Martian Manhunter**
+
+**Skin &nbsp;21: La Cosa Roca**
+
+**Skin &nbsp;22: Trollface Con Traje Negro**
+
+**Skin &nbsp;23: Trollface Con Traje Azul**
+
+**Skin &nbsp;24: Trollface Con Camisa Blanca**
 
 ## Troll Skins
 
