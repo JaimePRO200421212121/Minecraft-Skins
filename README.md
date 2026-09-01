@@ -73,3 +73,7 @@
 **Skin 10: Tronco Troll De Roble**
 
 **Skin 11: Tronco Troll De Roble Oscuro**
+
+## Lana Skins
+
+**Skin 1: Test**
